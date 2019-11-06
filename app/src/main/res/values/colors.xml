@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#08AAE0</color>
+    <color name="colorPrimaryDark">#02698B</color>
+    <color name="colorAccent">#5EC4E6</color>
+
+    <color name="colorInteract">#00E677</color>
+    <color name="colorInteractAccent">#009B50</color>
+
+
+    <color name="colorDanger">#FF4100</color>
+    <color name="colorDangerAccent">#DE3900</color>
+</resources>
